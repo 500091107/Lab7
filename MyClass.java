@@ -20,6 +20,12 @@ public class MyClass {
         System.out.println("sum is" + c);
     }
 
+    public static void div(int x, int y) {
+        a = x;
+        b = y;
+        int c = a /b;
+        System.out.println("div is" + c);
+
    public static void main ( String [ ] args ) {
        MyClass ob = new MyClass ( ); I
        ob.mul ( 5 , 10 );
