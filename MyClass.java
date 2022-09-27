@@ -19,6 +19,7 @@ public class MyClass {
         System.out.println("sum is" + c);
     }
 
+<<<<<<< HEAD
     public static void div(int x, int y) {
         a = x;
         b = y;
@@ -27,6 +28,8 @@ public class MyClass {
 
 =======
 >>>>>>> parent of c64d0be (Second commit)
+=======
+>>>>>>> parent of 8db625a (Third commit)
    public static void main ( String [ ] args ) {
        MyClass ob = new MyClass ( ); I
        ob.mul ( 5 , 10 );
